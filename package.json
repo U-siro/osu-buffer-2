@@ -1,5 +1,5 @@
 {
-  "name": "osu-buffer",
+  "name": "osu-buffer-2",
   "version": "1.3.1",
   "description": "Allows you to read and write packets/files for the game osu!",
   "main": "osu-buffer.js",
@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/U-siro/osu-buffer-2.git"
   },
-  "author": "Dillon (Itsyuka)",
-  "license": "MIT",
+  "author": "Dillon (Itsyuka), LPOPYui",
+  "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/U-siro/osu-buffer-2/issues"
   },
